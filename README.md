@@ -11,8 +11,26 @@ Welcome! This repository features real-world projects from my **Data Analyst Int
 
 ### Project 2: Exploratory Data Analysis (EDA)
 
-> *Status: In Progress / Coming Soon...*
-
+ **Objectives:**
+* To perform Exploratory Data Analysis (EDA) on the given dataset.
+* To understand the structure and characteristics of the dataset.
+* To identify missing values, duplicate records, and data quality issues.
+* To calculate descriptive statistics such as mean, median, count, minimum, and maximum values.
+* To analyze the distribution of numerical and categorical variables.
+* To detect trends, patterns, and potential outliers in the data.
+* To examine relationships between variables using correlation analysis.
+* To summarize key findings and derive meaningful business insights from the dataset.
+  
+ **Key Tasks:**
+* Import and load the dataset into Python using Pandas.
+* Explore the dataset by checking its dimensions, data types, and column names.
+* Identify and handle missing values and duplicate records.
+* Generate descriptive statistics for numerical variables.
+* Analyze categorical variables using frequency counts.
+* Create visualizations such as bar charts, pie charts, histograms, and boxplots.
+* Perform correlation analysis among numerical features.
+* Identify trends and outliers in the dataset.
+* Summarize observations and present the findings in a professional EDA report.
 ---
 
 ### Project 3: Power BI Analytics Dashboard
